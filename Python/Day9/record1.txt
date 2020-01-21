@@ -1,0 +1,29 @@
+
+RECORD :
+Name : Kashmiri
+Email : kmon
+Password : 123
+
+
+RECORD :
+Name : Mainu
+Email : koi
+Password : hhh
+
+
+RECORD :
+Name : Mena
+Email : mm
+Password : 123
+
+
+RECORD :
+Name : kkk
+Email : ttt
+Password : 566
+
+
+RECORD :
+Name : Kashmiri
+Email : kmoi
+Password : 123
