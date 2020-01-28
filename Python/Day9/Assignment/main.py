@@ -27,7 +27,6 @@ class FileManagement(object):
                 data = f.read()
                 
             user_chunk = data.split("\n\n")
-            
             for item in user_chunk[:-1]:
                 
                 single_chunk = item.split("\n")
