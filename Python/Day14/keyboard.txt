@@ -1,0 +1,58 @@
+alphanumeric key 6pressed
+
+'6'released
+
+alphanumeric key 7pressed
+
+'7'released
+
+alphanumeric key ipressed
+
+'i'released
+
+alphanumeric key ipressed
+
+'i'released
+
+alphanumeric key opressed
+
+'o'released
+
+alphanumeric key ypressed
+
+'y'released
+
+alphanumeric key ypressed
+
+'y'released
+
+alphanumeric key ypressed
+
+'y'released
+
+alphanumeric key ypressed
+
+'y'released
+
+alphanumeric key opressed
+
+'o'released
+
+alphanumeric key kpressed
+
+'k'released
+
+alphanumeric key 8pressed
+
+'8'released
+
+alphanumeric key ypressed
+
+'y'released
+
+alphanumeric key upressed
+
+'u'released
+
+alphanumeric key spressed
+

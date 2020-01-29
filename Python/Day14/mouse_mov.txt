@@ -1,0 +1,282 @@
+Pointer moved to (527, 262)
+
+Pointer moved to (524, 285)
+
+Pointer moved to (519, 308)
+
+Pointer moved to (512, 329)
+
+Pointer moved to (508, 342)
+
+Pointer moved to (503, 356)
+
+Pointer moved to (496, 369)
+
+Pointer moved to (486, 383)
+
+Pointer moved to (475, 397)
+
+Pointer moved to (462, 410)
+
+Pointer moved to (448, 427)
+
+Pointer moved to (433, 445)
+
+Pointer moved to (418, 463)
+
+Pointer moved to (399, 482)
+
+Pointer moved to (381, 497)
+
+Pointer moved to (365, 511)
+
+Pointer moved to (353, 524)
+
+Pointer moved to (340, 534)
+
+Pointer moved to (329, 543)
+
+Pointer moved to (317, 550)
+
+Pointer moved to (308, 554)
+
+Pointer moved to (299, 558)
+
+Pointer moved to (292, 560)
+
+Pointer moved to (288, 561)
+
+Pointer moved to (285, 561)
+
+Pointer moved to (284, 562)
+
+Pointer moved to (282, 562)
+
+Pointer moved to (280, 563)
+
+Pointer moved to (280, 563)
+
+Pointer moved to (279, 563)
+
+Pointer moved to (278, 563)
+
+Pointer moved to (278, 563)
+
+Pointer moved to (277, 562)
+
+Pointer moved to (277, 562)
+
+Pointer moved to (276, 562)
+
+Pointer moved to (275, 561)
+
+Pointer moved to (275, 560)
+
+Pointer moved to (275, 559)
+
+Pointer moved to (275, 559)
+
+Pointer moved to (275, 558)
+
+Pointer moved to (275, 557)
+
+Pointer moved to (275, 557)
+
+Pointer moved to (275, 556)
+
+Pressed at (275, 556)
+
+Released at (275, 556)
+
+Pointer moved to (1003, 427)
+
+Pointer moved to (985, 435)
+
+Pointer moved to (969, 443)
+
+Pointer moved to (951, 451)
+
+Pointer moved to (935, 458)
+
+Pointer moved to (917, 465)
+
+Pointer moved to (902, 471)
+
+Pointer moved to (887, 477)
+
+Pointer moved to (871, 482)
+
+Pointer moved to (856, 488)
+
+Pointer moved to (842, 493)
+
+Pointer moved to (832, 497)
+
+Pointer moved to (821, 501)
+
+Pointer moved to (812, 504)
+
+Pointer moved to (805, 506)
+
+Pointer moved to (801, 508)
+
+Pointer moved to (797, 510)
+
+Pointer moved to (794, 510)
+
+Pointer moved to (793, 511)
+
+Pointer moved to (791, 512)
+
+Pointer moved to (789, 512)
+
+Pointer moved to (788, 512)
+
+Pointer moved to (787, 513)
+
+Pointer moved to (786, 513)
+
+Pointer moved to (786, 513)
+
+Pointer moved to (784, 513)
+
+Pointer moved to (783, 513)
+
+Pointer moved to (783, 513)
+
+Pointer moved to (782, 513)
+
+Pointer moved to (781, 513)
+
+Pointer moved to (780, 513)
+
+Pointer moved to (780, 513)
+
+Pointer moved to (779, 513)
+
+Pointer moved to (777, 513)
+
+Pointer moved to (777, 513)
+
+Pointer moved to (776, 513)
+
+Pointer moved to (775, 513)
+
+Pointer moved to (775, 513)
+
+Pointer moved to (774, 513)
+
+Pointer moved to (773, 513)
+
+Pointer moved to (773, 513)
+
+Pointer moved to (772, 513)
+
+Pointer moved to (772, 513)
+
+Pointer moved to (771, 513)
+
+Pointer moved to (771, 512)
+
+Pointer moved to (771, 512)
+
+Pointer moved to (749, 502)
+
+Pointer moved to (706, 477)
+
+Pointer moved to (670, 458)
+
+Pointer moved to (639, 437)
+
+Pointer moved to (616, 423)
+
+Pointer moved to (592, 409)
+
+Pointer moved to (575, 398)
+
+Pointer moved to (561, 389)
+
+Pointer moved to (551, 383)
+
+Pointer moved to (541, 376)
+
+Pointer moved to (536, 373)
+
+Pointer moved to (530, 368)
+
+Pointer moved to (527, 366)
+
+Pointer moved to (526, 365)
+
+Pointer moved to (525, 365)
+
+Pointer moved to (521, 365)
+
+Pointer moved to (514, 368)
+
+Pointer moved to (503, 370)
+
+Pointer moved to (494, 373)
+
+Pointer moved to (484, 375)
+
+Pointer moved to (472, 377)
+
+Pointer moved to (457, 381)
+
+Pointer moved to (442, 384)
+
+Pointer moved to (427, 386)
+
+Pointer moved to (413, 389)
+
+Pointer moved to (400, 392)
+
+Pointer moved to (388, 394)
+
+Pointer moved to (376, 399)
+
+Pointer moved to (364, 401)
+
+Pointer moved to (355, 402)
+
+Pointer moved to (348, 405)
+
+Pointer moved to (341, 406)
+
+Pointer moved to (337, 406)
+
+Pointer moved to (333, 407)
+
+Pointer moved to (329, 408)
+
+Pointer moved to (327, 409)
+
+Pointer moved to (321, 410)
+
+Pointer moved to (318, 411)
+
+Pointer moved to (312, 413)
+
+Pointer moved to (306, 414)
+
+Pointer moved to (302, 416)
+
+Pointer moved to (299, 417)
+
+Pointer moved to (296, 418)
+
+Pointer moved to (293, 419)
+
+Pointer moved to (290, 419)
+
+Pointer moved to (289, 420)
+
+Pointer moved to (288, 420)
+
+Pointer moved to (286, 420)
+
+Pressed at (286, 420)
+
+Released at (286, 420)
+

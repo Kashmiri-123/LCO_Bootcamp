@@ -18,36 +18,86 @@ class Backend():
 
     
     def view_data(self):
+        final_user_list=[]
         try:
             with open("data.txt","r") as f:
                 data=f.read()
-            new_list=data.split("\n\n\n")
-            return new_list
+                new_list=data.split("\n\n\n")
+                for items in new_list[:-1]:
+                    single_users = items.split('\n')
+                    final_user_list.append([
+                        single_users[0],
+                        single_users[1],
+                        single_users[2]
+                    ])
+            return final_user_list
         except:
             return False
 
-    def edit_data(self,user_input,old_value,new_value):
+    def edit_data(self):
         try:
-            # if user_input==1:
-            #     with open("data.txt","r+") as f:
-            #         data=f.read()
-            #     new_list=data.split("\n\n\n")
-            #     for item in new_list[:-1]:
-            #         single_data=item.split("\n")
-            #         print("ppp",single_data[0])
-            #         if "Name : "+old_value==single_data[0]:
-            #             single_data[0]=new_value
-            #             with open("data.txt","r") as f:
-            #                 new_file=f.read()
-            #             new_file=new_file.replace(old_value,single_data[0])
-            #             with open("data.txt","w") as f:
-            #                 f.write(new_file)
-            #                 break
-            # return new_file
+            capture=self.view_data()
+            mail=input("Enter admin mail : ")
+            passwd=input("Enter admin pass : ")
+            if mail=="xyz@gmail.com" and passwd=="123":
+                answer=input("What do you want to change name/mail/password?")
+                if answer=="name":
+                    name=input("Enter name : ")
+                    new_name=input("Enter new name : ")
+                    name="Name : "+name
+                    for index,value in enumerate(capture):
+                        if value[0]==name:
+                            value[0]="Name : "+new_name
+                            print(value[0])
+                            with open("data.txt","r") as f:
+                                new_file=f.read()
+                            new_file=new_file.replace(name,value[0])
+                            with open("data.txt","w") as f:
+                                f.write(new_file)
+                            print("Data changed successfully")
 
+
+                elif answer=="mail":
+                    email=input("Enter email : ")
+                    new_mail=input("Enter new email : ")
+                    email="Email : "+email
+                    for index,value in enumerate(capture):
+                        if value[1]==email:
+                            value[1]="Email : "+new_mail
+                            with open("data.txt","r") as f:
+                                new_file=f.read()
+                            new_file=new_file.replace(email,value[1])
+                            with open("data.txt","w") as f:
+                                f.write(new_file)
+                            print("Data changed successfully")
+
+                else:
+                    print("Wrong input")
+            else:
+                print("Not an admin")
+
+            return new_file
 
         except:
             return False
+
+
+    def delete_data(self):
+        try:
+            user_id=int(input("Enter id to be deleted."))
+            with open("data.txt","r") as f:
+                data=f.read()
+                new_list=data.split("\n\n\n")
+            if user_id<1 or user_id>=len(new_list):
+                return True
+            write_file = open("data.txt","w")
+            write.close()
+
+            
+
+        except:
+            return False
+
 
 
 
@@ -56,6 +106,7 @@ def main():
     print("1.Register ")
     print("2.View data ")
     print("3.Edit data ")
+    print("4.Delete data ")
 
     choice=int(input("Enter your choice: "))
 
@@ -71,37 +122,24 @@ def main():
     
     elif choice==2:
         if object.view_data():
-            for index,value in enumerate(object.view_data()[:-1]):
-                print("Record "+str(index+1))
-                print(value)
-                print("\n")
+            print("")
         else:
             print("Data cannot be displayed!")
 
     elif choice==3:
-        print("What do you want to change?")
-        print("1.Name ")
-        print("2.Email ")
-        print("3.Password ")
+        if object.edit_data():
+            print("Done")
 
-        user_input=int(input("Enter your choice : "))
+        else:
+            print("Not an authenticated user.")
 
-        if user_input==1:
-            old_name=input("Enter the old name : ")
-            new_name=input("Enter the new name : ")
-            if object.edit_data(user_input,old_name,new_name):
-                for index,value in enumerate(object.edit_data(user_input,old_name,new_name)):
-                    # print("Record "+str(index+1))
-                    print(value)
-                    print("\n")
-            else:
-                print("Data could not be editted")
+    elif choice==4:
+        if object.delete_data():
+            print("Data deleted")
+        else:
+            print(Error in deleting data.)
+
         
-        if user_input==2:
-            pass
-
-        if user_input==3:
-            pass
 
 
 
